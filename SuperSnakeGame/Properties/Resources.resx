@@ -117,4 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Alert_Appear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Alert_Appear.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Alert_Dissappear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Alert_Dissappear.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Alert_Error" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Alert_Error.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Back_A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Back_A.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Back_B" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Back_B.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="brickBounce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\brickBounce.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="paddleBounce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paddleBounce.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Pick" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Pick.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Select_A" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Select_A.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Select_B" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Select_B.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="wallBounce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wallBounce.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

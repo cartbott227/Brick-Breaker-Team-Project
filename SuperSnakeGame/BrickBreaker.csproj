@@ -127,8 +127,39 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <None Include="Resources\Alert_Appear.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alert_Dissappear.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alert_Error.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_A.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back_B.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\brickBounce.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paddleBounce.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pick.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select_A.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Select_B.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallBounce.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
